@@ -1,230 +1,163 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Jaideep%20Shetti&fontSize=48&fontColor=58A6FF&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&descColor=8B949E&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+cloud-native+systems+that+scale;Automating+infrastructure+with+Terraform+%2B+K8s;Shipping+Farm360+%E2%80%94+an+AI-integrated+agri+ERP;Open+to+DevOps+%2F+Cloud+Engineering+roles" />
+# Jaideep Shetti
+**Cloud & DevOps Engineer shipping AI-integrated agricultural systems**
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/jaideepshetti05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/jaideep-shetti-637957353)
 [![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:officialjaideep05@gmail.com)
-[![Farm360](https://img.shields.io/badge/Farm360_ERP-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://dairyfarm.base44.app/)
-[![Resume](https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=readdotcv&logoColor=58A6FF)](#)
+[![Farm360 ERP](https://img.shields.io/badge/Farm360_ERP-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://dairyfarm.base44.app/)
 
-<img src="https://komarev.com/ghpvc/?username=jaideepshetti05&label=Profile+Views&color=161B22&style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/jaideepshetti05?label=Followers&style=flat-square&color=161B22&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Repos-99-161B22?style=flat-square&labelColor=0D1117" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+cloud-native+systems+that+scale;Automating+infrastructure+with+Terraform+%2B+K8s;Shipping+Farm360+%E2%80%94+AI-integrated+agricultural+ERP" />
 
 </div>
 
-<br/>
+---
 
-## About
+## ⚡ Engineering Dashboard
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Metric / Dimension | Status / Details |
+|---|---|
+| 🚀 **Current Flagship** | **Farm360 ERP** — Cloud-native AI agriculture platform |
+| 📍 **Location** | Bengaluru, India |
+| 🎓 **Education** | B.Tech, Information Technology · Alliance University (Specialization: Cloud & DevOps) |
+| 🛠️ **Active Focus** | Advanced Kubernetes (Helm, Operators), Infrastructure as Code (Terraform), GitHub Actions CI/CD |
+| 🌱 **Now Learning** | MLOps pipelines, Platform Engineering, Cloud Native Observability |
+| 🎯 **Target Roles** | Cloud Engineering & DevOps Roles |
 
-**Education**
-B.Tech, Information Technology
-Alliance University, Bengaluru
-Specialization: Cloud Computing & DevOps Engineering
+---
 
-**Current focus**
-Advanced Kubernetes (Helm, Operators), Terraform module design, and CI/CD pipelines with GitHub Actions.
+## 📖 About
 
-</td>
-<td width="50%" valign="top">
+I am a Cloud & DevOps Engineer specializing in designing automated, scalable cloud infrastructure and building full-stack applications with integrated AI capabilities.
 
-**Building**
-Farm360 — a cloud-native, AI-integrated agricultural ERP, plus its LLM-powered farming advisor.
+My core work centers on **Farm360**, a cloud-native agricultural ERP designed to digitize dairy and farm operations—from multi-role access control and automated inventory tracking to LLM-powered agricultural advisory.
 
-**Looking for**
-Entry-level DevOps / Cloud Engineering roles and internships where I can own infrastructure end-to-end.
+> *"Automate everything that can be automated, and design infrastructure so the next engineer can read it like documentation."*
 
-</td>
-</tr>
-</table>
+---
 
-> Engineering philosophy: automate everything that can be automated, and design infrastructure so the next engineer can read it like documentation.
+## 🏗️ Flagship System: Farm360 ERP
 
-<br/>
+> **AI-powered cloud platform for agricultural & dairy operations**
 
-## Tech Stack
+Farm360 is a cloud-native platform designed to digitize complex agricultural supply chains, milk collection, inventory management, billing, veterinary workflows, and financial analytics into a unified operational engine.
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### System Architecture
 
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
-
-**Containers & Orchestration**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
-
-**Infrastructure as Code**
-<br/>
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**CI/CD & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,linux,bash&theme=dark" />
-
-**Backend & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,fastapi&theme=dark" />
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" />
-
-**AI / LLM Integration**
-<br/>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" /> Google Gemini API · Prompt Engineering
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/farm360-architecture-dark.svg">
+  <img alt="Farm360 System Architecture" src="assets/farm360-architecture-light.svg" width="100%">
+</picture>
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Farm360 ERP
-**AI-powered cloud ERP for agriculture & dairy**
-
-Cloud-native platform digitizing dairy and agriculture operations — milk collection, inventory, billing, livestock management, veterinary appointments, finance, analytics, and supply chain in one system.
-
-**Architecture highlights**
-- Multi-role auth: Admin, Farmer, Dairy Manager, Veterinarian, Distributor, Vendor
-- Modular backend designed for high transaction volume
-- REST API-first design for future integrations
+### Technical Highlights
+- **Multi-Role Security:** Granular Role-Based Access Control (RBAC) supporting Admin, Farmer, Dairy Manager, Veterinarian, Distributor, and Vendor.
+- **Modular API Gateway:** Built with FastAPI (Python) enforcing clean separation between billing, inventory, and analytics services.
+- **Embedded AI Advisor:** Integrated with Google Gemini API to deliver contextual farming guidance and disease mitigation recommendations.
+- **Containerized Infrastructure:** Designed for containerized deployments with automated GitHub Actions CI/CD workflows.
 
 **Stack:** Next.js · React · Tailwind CSS · FastAPI · Python · PostgreSQL · Docker
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-161B22?style=flat-square&logo=vercel&logoColor=58A6FF)](https://dairyfarm.base44.app/)
-[![Repo](https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF)](#)
+[🌐 Live Application Demo](https://dairyfarm.base44.app/)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### Farm360 AI Assistant
-**LLM-powered agricultural advisor**
+## 🛠️ Technical Capabilities
 
-An AI assistant embedded in Farm360 that delivers real-time farming guidance — crop insights, disease recommendations, and dairy management support through natural conversation.
+### Cloud & Infrastructure
+- **Cloud Providers:** AWS, Azure, Google Cloud Platform (GCP)
+- **Infrastructure as Code:** Terraform (module design, state management)
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
 
-**Architecture highlights**
-- API-first design built for enterprise agri-advisory use cases
-- Prompt-engineering framework for context-aware Q&A
-- Structured for future multi-LLM support
+### DevOps & Automation
+- **CI/CD Pipelines:** GitHub Actions, Jenkins
+- **OS & Scripting:** Linux Administration, Bash, Python scripting
+- **Version Control:** Git, GitHub Flow
 
-**Stack:** Google Gemini API · Python · FastAPI · Next.js · React
+### Backend & Databases
+- **Backend Frameworks:** FastAPI, Python, Java
+- **Databases:** PostgreSQL, MySQL, Oracle DB
+- **AI & Integrations:** Google Gemini API, Prompt Engineering
 
-[![Repo](https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF)](#)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 📜 Certifications & Validations
 
-### Voice-Controlled Wheelchair
-**IoT accessibility prototype**
+### Completed
+- **OCI DevOps Professional** — Oracle Cloud Infrastructure
+- **Microsoft Azure AZ-900** — Azure Fundamentals
+- **Java Foundations** — Oracle Certified Associate
 
-Smart wheelchair prototype letting users with mobility impairments control movement via voice commands — a hands-free assistive-tech solution.
+### Target Certifications (Roadmap)
+- **Certified Kubernetes Administrator (CKA)** — Cloud Native Computing Foundation
+- **AWS Certified Solutions Architect – Associate (SAA)** — Amazon Web Services
+- **Google Cloud Professional Cloud Architect** — Google Cloud
 
-**Stack:** Arduino Uno · Embedded C · Bluetooth Module · Voice Recognition · Android
+---
 
-[![Repo](https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### Banking Management System
-**Core banking operations simulation**
-
-A system modeling core banking workflows — accounts, transactions, and record management.
-
-[![Repo](https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF)](#)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Student Management System</b></summary>
-<br/>
-A system for managing student records, academic data, and administrative workflows.
-
-[![Repo](https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=58A6FF)](#)
-</details>
-
-<br/>
-
-## GitHub Activity
+## 🐍 Activity & Contribution Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaideepshetti05&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepshetti05&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaideepshetti05/jaideepshetti05/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jaideepshetti05/jaideepshetti05/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaideepshetti05&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepshetti05&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaideepshetti05&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-## Certifications
+## 🗺️ Engineering Progression
 
-**Completed**
+| Stage | Domain | Status | Key Deliverables |
+|---|---|---|---|
+| **Phase 1** | Foundation & Languages | ✅ Complete | Java, Python, Data Structures & Algorithms |
+| **Phase 2** | Cloud & DevOps Core | ✅ Active | OCI DevOps Pro, Azure AZ-900, Docker, Linux |
+| **Phase 3** | Flagship Delivery | 🚀 Shipped | Farm360 ERP & Gemini AI Advisor |
+| **Phase 4** | Advanced Orchestration | 🛠️ In Progress | Terraform module architecture, Helm, Kubernetes |
+| **Phase 5** | MLOps & Platform Eng | 🎯 Upcoming | ML deployment pipelines, Cloud-native observability |
 
-[![Java Foundations](https://img.shields.io/badge/Java_Foundations-161B22?style=flat-square&logo=oracle&logoColor=58A6FF)]()
-[![Azure AZ-900](https://img.shields.io/badge/Microsoft_Azure_AZ--900-161B22?style=flat-square&logo=microsoftazure&logoColor=58A6FF)]()
-[![OCI DevOps Professional](https://img.shields.io/badge/OCI_DevOps_Professional-161B22?style=flat-square&logo=oracle&logoColor=58A6FF)]()
+---
 
-**Roadmap**
+## 📂 Other Projects
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-0D1117?style=flat-square&logo=amazonaws&logoColor=8B949E)]()
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-0D1117?style=flat-square&logo=amazonaws&logoColor=8B949E)]()
-[![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-0D1117?style=flat-square&logo=kubernetes&logoColor=8B949E)]()
-[![GCP Professional](https://img.shields.io/badge/Google_Cloud_Professional-0D1117?style=flat-square&logo=googlecloud&logoColor=8B949E)]()
-
-<br/>
-
-## Engineering Roadmap
-
-```
-Foundation → Java → Python → Cloud → DevOps → AI → Farm360 → LLMs → MLOps → Platform Engineering
-   done      done    done    active  active  active  shipped  active  next        next
-```
+<details>
+<summary><b>View Additional Projects</b></summary>
 
 <br/>
 
-## Open Source
+### Voice-Controlled Wheelchair
+**IoT Accessibility Prototype**  
+Smart wheelchair prototype allowing individuals with mobility impairments to direct movement via voice commands over Bluetooth.  
+`Arduino` · `Embedded C` · `Bluetooth` · `Android`
 
-Currently maintaining personal projects and coursework repositories (data structures & algorithms in Java/Python, Farm360, and smaller utility tools). Working toward contributing to open-source DevOps tooling as my Terraform and Kubernetes depth grows.
+### Core Banking Management System
+**Transaction & Workflow Simulation**  
+Simulated core banking backend managing accounts, transaction logs, and ledger integrity.  
+`Java` · `SQL` · `OOP`
 
-<br/>
+### Student Management System
+**Administrative Records Engine**  
+Workflow tool managing academic data, student enrollments, and administrative reporting.  
+`Python` · `SQL`
 
-## Contact
+</details>
+
+---
+
+## 📬 Contact & Connect
 
 <div align="center">
 
@@ -235,9 +168,5 @@ Currently maintaining personal projects and coursework repositories (data struct
 <br/>
 
 *"Automate everything that can be automated — build what matters most."*
-
-<sub>Thanks for visiting · <a href="#jaideep-shetti">Back to top</a></sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" />
 
 </div>

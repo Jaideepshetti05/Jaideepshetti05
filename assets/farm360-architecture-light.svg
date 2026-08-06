@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; rx: 12px; }
+      .border { fill: none; stroke: #d0d7de; stroke-width: 1.5; }
+      .box { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1.5; rx: 8px; }
+      .box-accent { fill: #f6f8fa; stroke: #0969da; stroke-width: 1.5; rx: 8px; }
+      .box-ai { fill: #f6f8fa; stroke: #8250df; stroke-width: 1.5; rx: 8px; }
+      .title { fill: #0969da; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.5px; }
+      .title-ai { fill: #8250df; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 0.5px; }
+      .text-main { fill: #1f2328; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; }
+      .text-sub { fill: #636c76; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; }
+      .arrow { stroke: #0969da; stroke-width: 1.5; stroke-dasharray: 4, 3; fill: none; }
+      .arrow-solid { stroke: #d0d7de; stroke-width: 1.5; fill: none; }
+    </style>
+    <marker id="arrowhead" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0969da" />
+    </marker>
+    <marker id="arrowhead-gray" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#d0d7de" />
+    </marker>
+  </defs>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="796" height="356" class="bg" />
+  <rect x="2" y="2" width="796" height="356" class="border" />
+
+  <!-- Header Label -->
+  <text x="24" y="32" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="600" letter-spacing="1">SYSTEM ARCHITECTURE · FARM360 ERP PLATFORM</text>
+
+  <!-- Row 1: Frontend Client & RBAC Users -->
+  <g transform="translate(24, 48)">
+    <rect width="752" height="64" class="box" />
+    <text x="16" y="26" class="title">PRESENTATION &amp; CLIENT LAYER</text>
+    <text x="16" y="46" class="text-main">Next.js 14 · React · Tailwind CSS</text>
+    <text x="360" y="46" class="text-sub">Multi-Role Auth (Admin, Farmer, Dairy Mgr, Vet, Distributor, Vendor)</text>
+  </g>
+
+  <!-- Arrow Row 1 to Row 2 -->
+  <path d="M 400 112 L 400 136" class="arrow-solid" marker-end="url(#arrowhead-gray)" />
+
+  <!-- Row 2: API Gateway & AI Module (Split) -->
+  <g transform="translate(24, 138)">
+    <!-- API Gateway Box -->
+    <rect x="0" y="0" width="480" height="84" class="box-accent" />
+    <text x="16" y="24" class="title">REST API &amp; BUSINESS LOGIC ENGINE</text>
+    <text x="16" y="46" class="text-main">FastAPI (Python) · Modular Services</text>
+    <text x="16" y="66" class="text-sub">Milk Collection · Inventory · Billing · Finance · Analytics</text>
+
+    <!-- Inter-connect arrow -->
+    <path d="M 480 42 L 512 42" class="arrow" marker-end="url(#arrowhead)" />
+
+    <!-- AI Module Box -->
+    <rect x="512" y="0" width="240" height="84" class="box-ai" />
+    <text x="528" y="24" class="title-ai">AI ADVISORY MODULE</text>
+    <text x="528" y="46" class="text-main">Google Gemini API</text>
+    <text x="528" y="66" class="text-sub">Prompt Engine · Crop &amp; Livestock Advisory</text>
+  </g>
+
+  <!-- Arrow Row 2 to Row 3 -->
+  <path d="M 264 222 L 264 246" class="arrow-solid" marker-end="url(#arrowhead-gray)" />
+
+  <!-- Row 3: Data & Infrastructure (Split) -->
+  <g transform="translate(24, 248)">
+    <!-- Data Layer -->
+    <rect x="0" y="0" width="480" height="74" class="box" />
+    <text x="16" y="24" class="title">PERSISTENCE LAYER</text>
+    <text x="16" y="46" class="text-main">PostgreSQL Database</text>
+    <text x="16" y="63" class="text-sub">Relational Schema · RBAC Policies · Transactional Ledger</text>
+
+    <!-- Infrastructure Layer -->
+    <rect x="512" y="0" width="240" height="74" class="box" />
+    <text x="528" y="24" class="title">INFRASTRUCTURE &amp; CI/CD</text>
+    <text x="528" y="46" class="text-main">Docker Containers</text>
+    <text x="528" y="63" class="text-sub">GitHub Actions CI/CD Pipeline</text>
+  </g>
+</svg>
