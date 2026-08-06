@@ -1,36 +1,183 @@
-<h1 align="center">Hi 👋, I'm jaideep Shetti</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | AWS • Docker • Kubernetes • Terraform | Building Cloud-Native Solutions</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaideepshetti05&label=Profile%20views&color=0e75b6&style=flat" alt="jaideepshetti05" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0B0E1A,100:1A1040&fontColor=A855F7&text=Jaideep%20Shetti&fontSize=38&desc=Cloud%20%26%20DevOps%20Engineer&descColor=6366F1&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaideepshetti05" alt="jaideepshetti05" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Engineer;%24+status+%E2%86%92+Final-Year+B.Tech+IT+Student;%24+stack+%E2%86%92+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;%24+open_to+%E2%86%92+DevOps%2FCloud+Internships+%26+Entry+Roles" />
 
-- 🔭 I’m currently working on [Farm360 ERP](https://dairyfarm.base44.app/)
+<br/>
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Terraform, GitHub Actions, Linux, CI/CD, Docker**
+[![Portfolio](https://img.shields.io/badge/Farm360_ERP-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://dairyfarm.base44.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideep-shetti)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialjaideep05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaideepshetti05)
 
-- 👯 I’m looking to collaborate on **Open Source DevOps & Cloud Projects**
+<img src="https://komarev.com/ghpvc/?username=jaideepshetti05&label=Profile%20Views&color=6366F1&style=for-the-badge" />
 
-- 💬 Ask me about **Cloud Computing, DevOps, AWS, Docker, Kubernetes, Linux, Terraform, Git & GitHub**
+</div>
 
-- 📫 How to reach me **officialjaideep05@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaideep shetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaideep shetti" height="30" width="40" /></a>
-<a href="https://kaggle.com/jaideepshetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaideepshetti" height="30" width="40" /></a>
-<a href="https://instagram.com/jaideep_jain_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaideep_jain_05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaideepshetti55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaideepshetti55" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaideep05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaideep05" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jaideep shetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jaideep shetti" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jaideep shetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaideep shetti" height="30" width="40" /></a>
-</p>
+## `> whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a final-year **B.Tech (IT)** student focused on **Cloud Computing & DevOps** — I build cloud-native systems and automate the infrastructure behind them. Currently deep in AWS, Kubernetes, and Terraform, and shipping a full production-grade ERP platform as my flagship project.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaideepshetti05&show_icons=true&locale=en&layout=compact" alt="jaideepshetti05" /></p>
+```bash
+$ cat .profile
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaideepshetti05&show_icons=true&locale=en" alt="jaideepshetti05" /></p>
+ROLE     = Cloud & DevOps Engineer (Entry-Level)
+STATUS   = Final-Year B.Tech IT Student
+DOMAIN   = Cloud Infrastructure | Containerization | IaC | CI/CD
+STACK    = AWS | Docker | Kubernetes | Terraform | Linux
+OPEN_TO  = DevOps Engineer / Cloud Engineer Internships & Entry Roles
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepshetti05&" alt="jaideepshetti05" /></p>
+<br/>
+
+## `> tech-stack`
+
+**Cloud & DevOps**
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,linux,bash,git,github&theme=dark" /></p>
+
+**Languages & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=python,java,c,react,nextjs,html,css,tailwind&theme=dark" /></p>
+
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" /></p>
+
+<br/>
+
+## `> domain-expertise`
+
+| Domain | Focus |
+|---|---|
+| **Cloud Infrastructure** | AWS, GCP, Azure — provisioning & deployment |
+| **Containerization & Orchestration** | Docker, Kubernetes |
+| **Infrastructure as Code** | Terraform |
+| **CI/CD Automation** | GitHub Actions, Jenkins |
+| **AI Integration** | LLM-powered features (Google Gemini API, prompt engineering) |
+
+<br/>
+
+## `> featured-projects`
+
+<details open>
+<summary><b>▶ Farm360 ERP — AI-Powered Cloud ERP for Agriculture & Dairy</b></summary>
+
+Cloud-native ERP platform that digitizes dairy and agriculture operations — milk collection, inventory, billing, livestock management, veterinary appointments, finance, analytics, and supply chain, all in one system.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Next.js · React · Tailwind CSS · FastAPI · Python · PostgreSQL · Docker · REST APIs |
+| **Scale** | Multi-role auth (Admin, Farmer, Dairy Manager, Veterinarian, Distributor, Vendor); backend built to handle thousands of daily transactions |
+| **Impact** | Enterprise-ready modular architecture designed for real dairy/agri operations at scale |
+| **Live** | [View Project](https://dairyfarm.base44.app/) |
+
+Personally architected the full-stack module system and cloud-native backend design.
+
+</details>
+
+<details>
+<summary><b>▶ Farm360 AI Assistant — LLM-Powered Agricultural Advisor</b></summary>
+
+An AI assistant embedded in Farm360 that uses LLMs to deliver real-time farming guidance — disease recommendations, crop insights, and dairy management support through natural conversation.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Google Gemini API · Python · FastAPI · Next.js · React · Prompt Engineering · REST APIs |
+| **Scale** | API-first architecture, built for enterprise agricultural advisory use cases |
+| **Impact** | Context-aware Q&A for farmers and dairy managers; future-ready multi-LLM design |
+
+Personally designed the prompt-engineering framework and AI agent integration layer.
+
+</details>
+
+<details>
+<summary><b>▶ Voice-Controlled Wheelchair — IoT Accessibility Prototype</b></summary>
+
+An IoT-based smart wheelchair prototype letting users with mobility impairments control movement via voice commands.
+
+| Aspect | Detail |
+|:--|:--|
+| **Stack** | Arduino Uno · Embedded C · Bluetooth Module · Voice Recognition · Android App · Sensors |
+| **Scale** | Working assistive-tech prototype |
+| **Impact** | Hands-free mobility solution demonstrating embedded systems + IoT integration |
+
+</details>
+
+<br/>
+
+## `> education`
+
+[![Education](https://img.shields.io/badge/B.Tech-Information_Technology-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white)]()
+
+<br/>
+
+## `> coding-profiles`
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-A855F7?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jaideep05)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jaideepshetti55)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-A855F7?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@jaideepshetti)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jaideepshetti)
+[![Kaggle](https://img.shields.io/badge/Kaggle-A855F7?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/jaideepshetti)
+
+<br/>
+
+## `> github-analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaideepshetti05&show_icons=true&hide_border=true&title_color=A855F7&icon_color=6366F1&text_color=E5E7EB&bg_color=0B0E1A" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jaideepshetti05&hide_border=true&background=0B0E1A&stroke=A855F7&ring=6366F1&fire=A855F7&currStreakLabel=E5E7EB" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaideepshetti05&layout=compact&hide_border=true&title_color=A855F7&text_color=E5E7EB&bg_color=0B0E1A" />
+
+</div>
+
+## `> trophies`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jaideepshetti05&theme=algolia&no-frame=true&column=7&margin-w=8" />
+</div>
+
+## `> activity-graph`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaideepshetti05&bg_color=0B0E1A&color=A855F7&line=6366F1&point=E5E7EB&area=true&hide_border=true" />
+
+## `> contribution-summary`
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaideepshetti05&theme=2077" />
+
+<br/>
+
+## `> current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced Kubernetes (Helm, Operators)
+  - Terraform modules & remote state management
+  - GitHub Actions CI/CD pipelines
+
+building:
+  - Farm360 ERP        # Cloud-native dairy & agriculture ERP
+  - Farm360 AI Assistant  # LLM-powered farming advisor
+
+open_to:
+  - DevOps Engineer / Cloud Engineer (entry-level)
+  - Cloud & DevOps internships
+```
+
+<br/>
+
+<div align="center">
+
+### `> connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaideep-shetti)
+[![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialjaideep05@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaideep_jain_05)
+
+*"Automate everything that can be automated — build what matters most."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E1A,100:1A1040&height=100&section=footer" />
+
+</div>
